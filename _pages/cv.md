@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Yanan Wang (王亚楠)"
+title: "Yanan Wang"
 permalink: /cv/
 author_profile: true
 redirect_from:
