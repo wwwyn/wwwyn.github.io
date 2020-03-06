@@ -12,5 +12,5 @@ author_profile: true
 
 * <b>Exploiting Topic-based Adversarial Neural Network for Cross-domain Keyphrase Extraction</b>. <br>
 <b>Yanan Wang</b>, Qi Liu, Chuan Qin, Tong Xu, Yijun Wang, Enhong Chen, Hui Xiong. <i>The 18th International Conference on Data Mining (**ICDM 2018**)</i>.<br>
-[[PDF]](https://yananwang.github.io/files/Yanan_ICDM18.pdf)
+[[PDF]](https://wwwyn.github.io/files/Yanan_ICDM18.pdf)
 [[Code]](https://github.com/wwwyn/TANN)
